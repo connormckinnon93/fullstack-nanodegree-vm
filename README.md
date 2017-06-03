@@ -4,10 +4,10 @@ Common code for the Relational Databases and Full Stack Fundamentals courses
 
 ## Udacity Project Tournament Results
 
--*Program*: Udacity Fullstack Web Developer Nanodegree
--*Project 4:* Tournament Results
--*Languages:* Python 2.7.x, ProstgreSQL
--*Methodology:* TDD
+**Program**: Udacity Fullstack Web Developer Nanodegree
+**Project 4:** Tournament Results
+**Languages:** Python 2.7.x, ProstgreSQL
+**Methodology:** TDD
 
 ### Dependencies
 
